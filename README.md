@@ -36,5 +36,3 @@ Me chamo Louis, tenho 13 anos, estudo programação desde meus 12, desde o inici
 ### OS
 ![Debian](https://img.shields.io/badge/-Debian-A81D33?logo=debian&logoColor=white)
 
-🌟 Github Stats
-GitHub Stats
