@@ -4,7 +4,8 @@ Sou um desenvolvedor e programador de 13 anos, com experiência em desenvolvimen
 🛠️ Tecnologias e Ferramentas que uso
 Linguagens e Frameworks:
 
-https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+
 
 Ferramentas e Plataformas:
 
