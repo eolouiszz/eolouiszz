@@ -3,7 +3,7 @@
 ### não sou mais um, sou um a mais! Deus esta no controle de tudo.
 
 🏄​ Quem sou?
-Me chamo Louis, tenho 13 anos, estudo programação desde meus 12, desde o inicio do ano basicamente; abril dia 5. estou procurando como lidar com a sindrome do impostor, fazendo muitos projetos, alem dos design, alem de desenvolvedor full-stack e designer, sou desenvolvedor de games, e tambem hacking etico.  ! 😊
+Me chamo Louis, tenho 13 anos, estudo programação desde meus 12, desde o inicio do ano basicamente; abril dia 5. estou procurando como lidar com a sindrome do impostor, fazendo muitos projetos, alem dos design, alem de desenvolvedor full-stack e designer, sou desenvolvedor de games, e tambem hacking etico.
 
 ### Stacks:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
