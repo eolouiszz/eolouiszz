@@ -21,6 +21,20 @@ Me chamo Louis, tenho 13 anos, estudo programação desde meus 12, desde o inici
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 
+### Ferramentas de Redes e Cibersegurança
+![Metasploit](https://img.shields.io/badge/-Metasploit-3670A0?logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF8800?logo=burp-suite&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?logo=kali-linux&logoColor=white)
+
+### Ferramentas de Desenvolvimento e Monitoramento
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+
+### Hardware
+![Intel](https://img.shields.io/badge/-Intel-0071C5?logo=intel&logoColor=white)
+
+### OS
+![Debian](https://img.shields.io/badge/-Debian-A81D33?logo=debian&logoColor=white)
 
 🌟 Github Stats
 GitHub Stats
