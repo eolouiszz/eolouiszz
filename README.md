@@ -2,7 +2,7 @@
   
   # Olá! 👋 Sou o Louis
 
-  <img src="https://i.pinimg.com/originals/5d/f6/9a/5df69ae7c8d31e1c1bbd34790c23c9b0.gif" alt="Gif de boas-vindas" width="400"/>
+  <img src="https://i.pinimg.com/originals/99/aa/29/99aa29afc9ce5e72263bea38fd62fd64.gif" alt="Gif de boas-vindas" width="200"/>
 
   ## "Não sou mais um, sou um a mais! Deus está no controle de tudo."
   
