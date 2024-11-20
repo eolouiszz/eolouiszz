@@ -1,38 +1,47 @@
-### Olá! 👋 Sou o Louis
+<br clear="both">
 
-### não sou mais um, sou um a mais! Deus esta no controle de tudo.
+<h1 align="center">Hi 👋 Me chamo Louis!</h1>
 
-🏄​ Quem sou?
-Me chamo Louis, tenho 13 anos, estudo programação desde meus 12, desde o inicio do ano basicamente; abril dia 5. estou procurando como lidar com a sindrome do impostor, fazendo muitos projetos, alem dos design, alem de desenvolvedor full-stack e designer, sou desenvolvedor de games, e tambem hacking etico.
+###
 
-### Stacks:
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)
+<h2 align="left">não sou mais um, sou um a mais! Deus esta no controle de tudo.</h2>
 
-### Ferramentas:
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/-Nmap-0078D6?logo=nmap&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+###
 
-### Ferramentas de Redes e Cibersegurança
-![Metasploit](https://img.shields.io/badge/-Metasploit-3670A0?logo=metasploit&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF8800?logo=burp-suite&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?logo=kali-linux&logoColor=white)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+</div>
 
-### Ferramentas de Desenvolvimento e Monitoramento
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+###
 
-### Hardware
-![Intel](https://img.shields.io/badge/-Intel-0071C5?logo=intel&logoColor=white)
+<img align="right" height="150" src="https://i.pinimg.com/originals/5d/f6/9a/5df69ae7c8d31e1c1bbd34790c23c9b0.gif"  />
 
-### OS
-![Debian](https://img.shields.io/badge/-Debian-A81D33?logo=debian&logoColor=white)
+###
 
+<div align="left">
+  <a href="https://www.youtube.com/@louiszika" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=eolouiszz&theme=dracula" alt="Layout with last medium posts"  />
+</div>
+
+###
