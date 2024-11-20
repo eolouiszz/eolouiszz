@@ -1,9 +1,17 @@
-### Olá! 👋 Sou o Louis
+<div align="center">
+  
+  ### Olá! 👋 Sou o Louis
 
-### não sou mais um, sou um a mais! Deus esta no controle de tudo.
+  <img src="https://i.pinimg.com/originals/5d/f6/9a/5df69ae7c8d31e1c1bbd34790c23c9b0.gif" alt="Gif de boas-vindas" width="400"/>
 
-🏄​ Quem sou?
-Me chamo Louis, tenho 13 anos, estudo programação desde meus 12, desde o inicio do ano basicamente; abril dia 5. estou procurando como lidar com a sindrome do impostor, fazendo muitos projetos, alem dos design, alem de desenvolvedor full-stack e designer, sou desenvolvedor de games, e tambem hacking etico.
+  ### Não sou mais um, sou um a mais! Deus está no controle de tudo.
+  
+</div>
+
+---
+
+🏄​ **Quem sou?**  
+Me chamo Louis, tenho 13 anos, estudo programação desde meus 12, desde o início do ano basicamente; abril, dia 5. Estou procurando como lidar com a síndrome do impostor, fazendo muitos projetos. Além dos designs, além de desenvolvedor full-stack e designer, sou desenvolvedor de games e também hacker ético.
 
 ### Stacks:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -35,3 +43,4 @@ Me chamo Louis, tenho 13 anos, estudo programação desde meus 12, desde o inici
 
 ### OS
 ![Debian](https://img.shields.io/badge/-Debian-A81D33?logo=debian&logoColor=white)
+
