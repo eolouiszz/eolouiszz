@@ -12,12 +12,7 @@
 
 ## 🏄 Quem sou?
 Me chamo **Louis**, tenho **13 anos** e estudo programação desde os **12 anos** (comecei no dia 5 de abril).  
-Atualmente, estou aprendendo a lidar com a **síndrome do impostor**, trabalhando em vários projetos que englobam:  
-- Desenvolvimento **Full-Stack** e **design**.  
-- Desenvolvimento de **games**.  
-- **Hacking ético** com foco em cibersegurança.  
-
-Sou apaixonado por aprendizado e estou sempre buscando me superar! 🚀  
+Atualmente, estou buscando algo interessante
 
 ---
 
@@ -76,7 +71,7 @@ Sou apaixonado por aprendizado e estou sempre buscando me superar! 🚀
 
 <div align="center">
   
-  Obrigado por visitar meu perfil! 🌟 Vamos construir algo incrível juntos!  
+  Obrigado por visitar meu perfil! 🌟
 
 </div>
 
