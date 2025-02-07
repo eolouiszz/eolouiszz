@@ -11,7 +11,7 @@
 ---
 
 ## 🏄 Quem sou?
-Me chamo **Louis**, tenho **13 anos** e estudo programação desde os **12 anos** (comecei no dia 5 de abril).  
+Me chamo **Louis** comecei no dia 1 de janeiro de 2024.  
 Atualmente, estou buscando algo interessante
 
 ---
@@ -36,7 +36,6 @@ Atualmente, estou buscando algo interessante
 
 ### Desenvolvimento:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 
@@ -46,16 +45,14 @@ Atualmente, estou buscando algo interessante
 ![Nmap](https://img.shields.io/badge/-Nmap-0078D6?logo=nmap&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/-Metasploit-3670A0?logo=metasploit&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF8800?logo=burp-suite&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?logo=kali-linux&logoColor=white)
 
 </div>
 
 ---
 
-## 🖥️ Hardware e Sistema Operacional:
+## 🖥️ Sistema:
 <div align="center">
 
-![Intel](https://img.shields.io/badge/-Intel-0071C5?logo=intel&logoColor=white)
 ![Debian](https://img.shields.io/badge/-Debian-A81D33?logo=debian&logoColor=white)
 
 </div>
@@ -63,9 +60,9 @@ Atualmente, estou buscando algo interessante
 ---
 
 ## 🌟 Minhas metas:
-- **Lidar com a síndrome do impostor** enquanto aprimoro minhas habilidades.  
-- Criar **projetos impactantes** que ajudem a comunidade.  
-- Expandir meu conhecimento e continuar aprendendo, pois **o aprendizado nunca para!**  
+terminar meu **jogo**
+
+expandir meu conhecimentos
 
 ---
 
