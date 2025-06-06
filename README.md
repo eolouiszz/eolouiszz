@@ -26,6 +26,10 @@ Atualmente, estou buscando algo interessante
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB)
+![Lua](https://img.shields.io/badge/-Lua-2C2D72?logo=lua&logoColor=white)
+![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white)
+![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobephotoshop&logoColor=white)
 
 </div>
 
