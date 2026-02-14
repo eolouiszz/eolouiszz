@@ -1,1 +1,1 @@
-[![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=SEU_USUARIO)](https://github.com/eolouiszz)
+[![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=eolouiszz)](https://github.com/eolouiszz)
