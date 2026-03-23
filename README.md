@@ -11,19 +11,12 @@ Atualmente focado em **Front-end (React, Bootstrap)**, **Python**, **APIs** e **
 ## 🚀 Projetos e Portfólio
 
 - 🌐 [Meu Portfólio](https://portfolio-dt9v.onrender.com) – Projetos, estudos e trabalhos recentes.  
-- 🎮 Bonone Project 🐢 – Laboratório de jogos e assets no Roblox.  
+- 🎮 Bonone Project 🐢 – Futuro Laboratório de jogos e assets no Roblox.  
 
 ## 🛠️ Tecnologias & Ferramentas
 
 - **Front-end:** HTML, CSS, Bootstrap, React  
-- **Back-end:** Node.js, Python, APIs  
-- **Ferramentas:** Git, GitHub, VS Code, Nmap, Metasploit, Wireshark  
-
-## 📫 Contato
-
-- 🌐 [GitHub](https://github.com/eolouiszz)  
-- 🎥 [Canal de Programação](#) *(adicione link se quiser)*  
-
----
+- **Back-end:** Python, APIs  
+- **Ferramentas:** Git, GitHub, VS Code
 
 > "Aprender é uma jornada contínua. Todo dia é dia de explorar algo novo."
