@@ -21,7 +21,6 @@ Atualmente focado em **Front-end (React, Bootstrap)**, **Python**, **APIs** e **
 
 ## 📫 Contato
 
-- 📧 ilouiszk@gmail.com  
 - 🌐 [GitHub](https://github.com/eolouiszz)  
 - 🎥 [Canal de Programação](#) *(adicione link se quiser)*  
 
