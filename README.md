@@ -20,23 +20,18 @@ Atualmente focado em **Front-end, Back-end, APIs, Redes e Cybersegurança**.
 
 ---
 
-## 🛠️ Skills
+## Skills
 
-### Linguagens & Frameworks
-![JavaScript](https://img.shields.io/badge/-JS-000?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-000?style=flat-square&logo=react)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=flat-square&logo=bootstrap)
-![Python](https://img.shields.io/badge/-Python-000?style=flat-square&logo=python)
-![Bash](https://img.shields.io/badge/-Bash-000?style=flat-square&logo=gnu-bash)
-![Java](https://img.shields.io/badge/-Java-000?style=flat-square&logo=java)
-![Spring Boot](https://img.shields.io/badge/-SpringBoot-000?style=flat-square&logo=springboot)
-![Flask](https://img.shields.io/badge/-Flask-000?style=flat-square&logo=flask)
-
-### Ferramentas
-![VS Code](https://img.shields.io/badge/-VS%20Code-000?style=flat-square&logo=visual-studio-code)
-![Git](https://img.shields.io/badge/-Git-000?style=flat-square&logo=git)
-![Linux](https://img.shields.io/badge/-Linux-000?style=flat-square&logo=linux)
-
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="SpringBoot" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
+</p>
 ---
 
 ## 🚀 Projetos Principais
