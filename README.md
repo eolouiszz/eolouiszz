@@ -55,14 +55,4 @@ Gosto de explorar programação, redes, segurança e design, criando projetos pr
 - 🌐 [Meu Portfólio](https://louiszzz.vercel.app/) – Projetos, estudos e trabalhos recentes  
 - 🎮 Bonone Project 🐢 – Futuro laboratório de jogos, assets e experimentos em Roblox  
 
----
-
-## 🔗 Contato
-
-- 📧 ilouiszk@gmail.com  
-- 🌐 [GitHub](https://github.com/eolouiszz)  
-- 🎥 [Canal de Programação](#) *(adicione link se quiser)*  
-
----
-
 > "Aprender é uma jornada contínua. Todo dia é dia de explorar algo novo."
