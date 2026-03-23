@@ -1,6 +1,6 @@
 # Olá, eu sou Louis 👋
 Sou desenvolvedor, entusiasta de tecnologia e **hacker ético em formação** desde cedo.
-Gosto de explorar programação, redes, segurança e design, criando projetos práticos e aprendendo todos os dias.dd
+Gosto de explorar programação, dredes, segurança e design, criando projetos práticos e aprendendo todos os dias.dd
 ---ddddd
 ddddd
 ## 💻 Minhas Estatísticasf
