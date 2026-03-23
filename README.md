@@ -5,10 +5,19 @@ Atualmente focado em **Front-end (React, Bootstrap)**, **Back-end(Java, springbo
 
 ## 💻 Estatísticas
 
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs?username=eolouiszz&layout=compact&theme=dracula)](https://github.com/eolouiszz)  
-[![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=eolouiszz&theme=dracula&show_icons=true)](https://github.com/eolouiszz)  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eolouiszz&theme=dracula)](https://github.com/eolouiszz)
-
+<table>
+<tr>
+<td>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=eolouiszz&layout=compact&theme=dracula" />
+</td>
+<td>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=eolouiszz&theme=dracula&show_icons=true" />
+</td>
+<td>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eolouiszz&theme=dracula" />
+</td>
+</tr>
+</table>
 ---
 
 ## 🛠️ Skills
@@ -40,19 +49,12 @@ Atualmente focado em **Front-end (React, Bootstrap)**, **Back-end(Java, springbo
 
 ---
 
-### Planejo
-- aprender mais Bash e Python para fazer scripts de automoção
-- 
-- Fazer curso tecnico(Escola tecnica Estadual)
-
-*(Mais projetos em breve: APIs, backends em Java e projetos fullstack)*
-
----
-
 ## 📚 Roadmap de Aprendizado
 
 **2026 – Próximos Passos**
-- Concluir JS avançado React + typescript  
+- fazer curso tecnico
+- Concluir JS avançado React + typescript
+- aprender mais bash e python para automação
 - Aprender **Java** e criar APIs + Backends
 - Explorar integração entre React + APIs Java  
 - Aprimorar automação e Bash scripting
