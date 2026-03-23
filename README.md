@@ -10,7 +10,7 @@ Atualmente focado em **Front-end (React, Bootstrap)**, **Python**, **APIs** e **
 
 ## 🚀 Projetos e Portfólio
 
-- 🌐 [Meu Portfólio](https://portfolio-dt9v.onrender.com) – Projetos, estudos e trabalhos recentes.  
+- 🌐 [Meu Portfólio](https://louiszzz.vercel.app/) – Projetos, estudos e trabalhos recentes.  
 - 🎮 Bonone Project 🐢 – Futuro Laboratório de jogos e assets no Roblox.  
 
 ## 🛠️ Tecnologias & Ferramentas
