@@ -10,7 +10,7 @@ Atualmente focado em **Front-end, Back-end, APIs, Redes e Cybersegurança**.
 <table>
 <tr>
 <td>
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=eolouiszz&show_icons=true&count_private=true&hide=stars&theme=dracula&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eolouiszz&theme=dracula&hide_border=true" />
 </td>
 <td>
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=eolouiszz&layout=compact&theme=dracula&hide_border=true" />
