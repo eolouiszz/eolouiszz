@@ -52,11 +52,12 @@ Atualmente focado em **Front-end (React, Bootstrap)**, **Back-end(Java, springbo
 ## 📚 Roadmap de Aprendizado
 
 **2026 – Próximos Passos**
-- Concluir JS avançado e React  
-- Aprender **Java** e criar APIs + Backends  
+- Concluir JS avançado React + typescript  
+- Aprender **Java** e criar APIs + Backends
 - Explorar integração entre React + APIs Java  
-- Aprimorar automação e Bash scripting 
+- Aprimorar automação e Bash scripting
 - Criar mini-projetos fullstack conectando front e back
+- começar a criar o bonone.
 
 ---
 
