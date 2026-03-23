@@ -1,7 +1,7 @@
 # Olá, eu sou Louis 👋
 
 Sou desenvolvedor e entusiasta de tecnologia, hacking ético e criação de projetos desde cedo.  
-Atualmente focado em **Front-end (React, Bootstrap)**, **Back-end(Java, springboot| python, flask**, **APIs**, **redes** **cybersegurança**.
+Atualmente focado em **Front-end, Back-end, APIs, Redes e Cybersegurança**.
 
 ## 💻 Estatísticas
 
@@ -18,22 +18,25 @@ Atualmente focado em **Front-end (React, Bootstrap)**, **Back-end(Java, springbo
 </td>
 </tr>
 </table>
+
 ---
 
 ## 🛠️ Skills
 
 ### Linguagens & Frameworks
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=000)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=fff)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=fff)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=fff)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/-JS-000?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-000?style=flat-square&logo=react)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=flat-square&logo=bootstrap)
+![Python](https://img.shields.io/badge/-Python-000?style=flat-square&logo=python)
+![Bash](https://img.shields.io/badge/-Bash-000?style=flat-square&logo=gnu-bash)
+![Java](https://img.shields.io/badge/-Java-000?style=flat-square&logo=java)
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-000?style=flat-square&logo=springboot)
+![Flask](https://img.shields.io/badge/-Flask-000?style=flat-square&logo=flask)
 
 ### Ferramentas
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=fff)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=fff)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=000)
+![VS Code](https://img.shields.io/badge/-VS%20Code-000?style=flat-square&logo=visual-studio-code)
+![Git](https://img.shields.io/badge/-Git-000?style=flat-square&logo=git)
+![Linux](https://img.shields.io/badge/-Linux-000?style=flat-square&logo=linux)
 
 ---
 
@@ -52,15 +55,15 @@ Atualmente focado em **Front-end (React, Bootstrap)**, **Back-end(Java, springbo
 ## 📚 Roadmap de Aprendizado
 
 **2026 – Próximos Passos**
-- fazer curso tecnico
-- Concluir JS avançado React + typescript
-- aprender mais bash e python para automação
-- Aprender **Java** e criar APIs + Backends
+- Fazer curso técnico  
+- Concluir JS avançado, React + TypeScript  
+- Aprender mais Bash e Python para automação  
+- Aprender **Java** e criar APIs + Backends  
 - Explorar integração entre React + APIs Java  
-- Aprimorar automação e Bash scripting
-- Criar mini-projetos fullstack conectando front e back
-- começar a criar o bonone.
+- Aprimorar automação e Bash scripting  
+- Criar mini-projetos fullstack conectando front e back  
+- Começar a criar o Bonone
 
 ---
 
-<See you later... Louis! /> 
+<See you later... Louis! />
