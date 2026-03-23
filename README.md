@@ -21,25 +21,6 @@ Atualmente focado em **Front-end, Back-end, APIs, Redes e Cybersegurança**.
 
 ---
 
-## 🛠️ Skills
-
-### Linguagens & Frameworks
-![JavaScript](https://img.shields.io/badge/-JS-000?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-000?style=flat-square&logo=react)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=flat-square&logo=bootstrap)
-![Python](https://img.shields.io/badge/-Python-000?style=flat-square&logo=python)
-![Bash](https://img.shields.io/badge/-Bash-000?style=flat-square&logo=gnu-bash)
-![Java](https://img.shields.io/badge/-Java-000?style=flat-square&logo=java)
-![Spring Boot](https://img.shields.io/badge/-SpringBoot-000?style=flat-square&logo=springboot)
-![Flask](https://img.shields.io/badge/-Flask-000?style=flat-square&logo=flask)
-
-### Ferramentas
-![VS Code](https://img.shields.io/badge/-VS%20Code-000?style=flat-square&logo=visual-studio-code)
-![Git](https://img.shields.io/badge/-Git-000?style=flat-square&logo=git)
-![Linux](https://img.shields.io/badge/-Linux-000?style=flat-square&logo=linux)
-
----
-
 ## 🚀 Projetos Principais
 
 ### Bonone Project 🐢 (Em Planejamento)
