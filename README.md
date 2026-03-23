@@ -1,13 +1,7 @@
 # Olá, eu sou Louis 👋
 
 Sou desenvolvedor e entusiasta de tecnologia, hacking ético e criação de projetos desde cedo.  
-Atualmente focado em **Front-end (React, Bootstrap)**, **Python**, **APIs** e **redes**.
-
-🌐 Meu portfólio: [portfolio-dt9v.onrender.com](https://portfolio-dt9v.onrender.com)  
-📺 Canal de programação: [YouTube](https://www.youtube.com/@eolouiszz)  
-🐙 GitHub: [eolouiszz](https://github.com/eolouiszz)
-
----
+Atualmente focado em **Front-end (React, Bootstrap)**, **Java**, **APIs** e **redes**.
 
 ## 💻 Estatísticas
 
@@ -28,7 +22,6 @@ Atualmente focado em **Front-end (React, Bootstrap)**, **Python**, **APIs** e **
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=fff)
 
 ### Ferramentas
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=fff)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=fff)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=fff)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=000)
@@ -37,20 +30,20 @@ Atualmente focado em **Front-end (React, Bootstrap)**, **Python**, **APIs** e **
 
 ## 🚀 Projetos Principais
 
-### Bonone Project 🐢 (BETA)
-- Laboratório de aprendizado em Roblox, assets, modelagem e scripts.  
-- Portfólio de demonstração: [Bonone Project](https://github.com/eolouiszz)  
-- Tecnologias: Lua, Blender, React (frontend do site), Node
+### Bonone Project 🐢 (Em Planejamento)
+- Laboratório de aprendizado em Roblox, Design, assets, modelagem e scripts em Luau.
 
 ### Portfolio
-- Meu portfolio pessoal em React/Bootstrap  
-- [Acessar Portfolio](https://portfolio-dt9v.onrender.com)  
+- Meu portfolio
+- [Acessar Portfolio](https://louiszzz.vercel.com/)  
 - Mostra meus projetos, skills e links de contato
 
-### Scripts & Ferramentas
-- Scripts de automação em Bash e Python  
-- Ferramentas de aprendizado com APIs, redes e hacking ético  
-- Exemplos: nmap scans, requests automatizados, bots simples
+---
+
+### Planejo
+- aprender mais Bash e Python para fazer scripts de automoção
+- 
+- Fazer curso tecnico(Escola tecnica Estadual)
 
 *(Mais projetos em breve: APIs, backends em Java e projetos fullstack)*
 
@@ -62,17 +55,9 @@ Atualmente focado em **Front-end (React, Bootstrap)**, **Python**, **APIs** e **
 - Concluir JS avançado e React  
 - Aprender **Java** e criar APIs + Backends  
 - Explorar integração entre React + APIs Java  
-- Aprimorar automação e Bash scripting  
+- Aprimorar automação e Bash scripting 
 - Criar mini-projetos fullstack conectando front e back
 
 ---
 
-## 💬 Contato
-- 📧 ilouiszk@gmail.com  
-- 🌐 [Portfolio](https://portfolio-dt9v.onrender.com)  
-- 🐦 Twitter: [@eolouiszz](https://twitter.com/eolouiszz) *(se tiver)*  
-
----
-
-### 💡 Dica
-> Este README é vivo! A cada projeto novo ou skill adquirida, atualize para manter seu GitHub **sempre interessante e atrativo**.
+<See you later... Louis! /> 
