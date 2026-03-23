@@ -1,7 +1,7 @@
 # Olá, eu sou Louis 👋
 
 Sou desenvolvedor e entusiasta de tecnologia, hacking ético e criação de projetos desde cedo.  
-Atualmente focado em **Front-end (React, Bootstrap)**, **Java**, **APIs** e **redes**.
+Atualmente focado em **Front-end (React, Bootstrap)**, **Back-end(Java, springboot| python, flask**, **APIs**, **redes** **cybersegurança**.
 
 ## 💻 Estatísticas
 
