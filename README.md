@@ -35,7 +35,7 @@ Atualmente focado em **Front-end (React, Bootstrap)**, **Back-end(Java, springbo
 
 ### Portfolio
 - Meu portfolio
-- [Acessar Portfolio](https://louiszzz.vercel.com/)  
+- [Acessar Portfolio](https://louiszzz.vercel.app/)  
 - Mostra meus projetos, skills e links de contato
 
 ---
