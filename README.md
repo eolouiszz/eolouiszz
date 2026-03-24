@@ -20,7 +20,7 @@ Atualmente focado em **Front-end, Back-end, APIs, Redes e Cybersegurança**.
 
 ---
 
-### 💻 Skills
+## 🛠 Skills
 
 ### Linguagens
 <p align="left">
@@ -29,7 +29,6 @@ Atualmente focado em **Front-end, Back-end, APIs, Redes e Cybersegurança**.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" alt="Lua" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
 </p>
 
 ### Frameworks
@@ -38,7 +37,6 @@ Atualmente focado em **Front-end, Back-end, APIs, Redes e Cybersegurança**.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="SpringBoot" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
 </p>
 
 ### Bancos de Dados
@@ -57,8 +55,6 @@ Atualmente focado em **Front-end, Back-end, APIs, Redes e Cybersegurança**.
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
 </p>
 
 ### Sistemas Operacionais
@@ -75,7 +71,7 @@ Atualmente focado em **Front-end, Back-end, APIs, Redes e Cybersegurança**.
 - Laboratório de aprendizado em Roblox, Design, assets, modelagem e scripts em Luau.
 
 ### Portfolio
-- Meu portfolio
+- Meu portfolio  
 - [Acessar Portfolio](https://louiszzz.vercel.app/)  
 - Mostra meus projetos, skills e links de contato
 
@@ -85,13 +81,14 @@ Atualmente focado em **Front-end, Back-end, APIs, Redes e Cybersegurança**.
 
 **2026 – Próximos Passos**
 - Fazer curso técnico  
-- Concluir JS avançado, React + TypeScript  
+- Concluir JS avançado e começar React + TypeScript  
 - Aprender mais Bash e Python para automação  
 - Aprender **Java** e criar APIs + Backends  
 - Explorar integração entre React + APIs Java  
 - Aprimorar automação e Bash scripting  
 - Criar mini-projetos fullstack conectando front e back  
-- Começar a criar o Bonone
+- Começar a criar o Bonone Project  
+- Futuramente estudar Postman, Docker e Node.js  
 
 ---
 
