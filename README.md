@@ -88,7 +88,7 @@ Atualmente focado em **Front-end, Back-end, APIs, Redes e Cybersegurança**.
 - Aprimorar automação e Bash scripting  
 - Criar mini-projetos fullstack conectando front e back  
 - Começar a criar o Bonone Project  
-- Futuramente estudar Postman, Docker e Node.js  
+- Futuramente estudar Postman e docker.
 
 ---
 
