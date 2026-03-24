@@ -42,7 +42,7 @@ Atualmente focado em **Front-end, Back-end, APIs, Redes e Cybersegurança**.
 ### Design & 3D
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="Blender" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adobephotoshop/adobephotoshop-plain.svg" alt="Photoshop" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Photoshop_CC_icon.svg" alt="Photoshop" width="40" height="40"/>
 </p>
 
 ### Ferramentas
