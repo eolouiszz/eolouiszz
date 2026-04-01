@@ -1,4 +1,4 @@
-# Olá, eu sou Louis 👋ddddddddddddddddddddddd
+# Olá, eu sou Louis 👋dddddddddddddddddddddd
 Sou desenvolvedor e entusiasta de tecnologia, hacking ético e criação de projetos desde cedo.
 Atualmente focado em **Front-end, Back-end, APIs, Redes e Cybersegurança**.
 
