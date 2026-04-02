@@ -1,4 +1,4 @@
-dd# Seja Bem vindo!dddddddddddddd
+# Seja Bem vindo!dddddddddddddd
 Sou desenvolvedor e entusiasta de tecnologia, hacking ético e criação de projetos desde cedo.
 Atualmente focado em **Front-end, Back-end, APIs, Redes e Cybersegurança**.
 
