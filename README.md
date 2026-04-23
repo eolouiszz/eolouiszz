@@ -63,18 +63,6 @@ Atualmente focado em **Front-end, Back-end, APIs, Redes e Cybersegurança**.
 
 ---
 
-## 🚀 Projetos Principais
-
-### Bonone Project 🐢 (Em Planejamento)
-- Laboratório de aprendizado em Roblox, Design, assets, modelagem e scripts em Luau.
-
-### Portfolio
-- Meu portfolio  
-- [Acessar Portfolio](https://louiszzz.vercel.app/)  
-- Mostra meus projetos, skills e links de contato
-
----
-
 ## 📚 Roadmap de Aprendizado
 
 **2026 – Próximos Passos**
