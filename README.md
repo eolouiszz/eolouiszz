@@ -52,43 +52,6 @@ Atualmente focado em **Front-end, Back-end, APIs, Redes e Cybersegurança**.
 <img src="https://cdn-icons-png.flaticon.com/128/5968/5968520.png" width="40"/>
 </p>
 
----
-
-## 🎯 Roadmap 2026
-
-- 🎓 Fazer curso técnico  
-- ⚡ Dominar JavaScript avançado  
-- ⚛️ Evoluir em React + TypeScript  
-- ☕ Aprender Java para APIs e Back-end  
-- 🐍 Usar Python para automações  
-- 🐚 Melhorar Bash scripting  
-- 🔗 Integrar React + APIs Java  
-- 🧱 Criar mini projetos Full Stack  
-- 🌍 Desenvolver o **Bonone Project**  
-- 🐳 Estudar Docker e Postman futuramente  
-
----
-
-## 🚀 Projeto Atual
-
-### 🐢 Bonone Project
-
-Projeto focado em aprendizado, criatividade e evolução técnica.  
-Objetivo: desenvolver experiências, sistemas e ideias próprias enquanto aprimoro minhas habilidades.
-
----
-
-## 📫 Contato
-
-- GitHub: https://github.com/eolouiszz
-
----
-
-<div align="center">
-
-### 💡 "Aprender cedo é construir vantagem cedo."
-
-</div>
 
 ---
 
