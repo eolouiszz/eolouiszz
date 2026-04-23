@@ -38,6 +38,7 @@ Atualmente focado em **Front-end, Back-end, APIs, Redes e Cybersegurança**.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" alt="Debian" width="40" height="40"/>
 ---
+
 ## 📚 Roadmap de Aprendizado
 
 **2026 – Próximos Passos**
