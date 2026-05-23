@@ -30,7 +30,7 @@ Atualmente focado em **FullStack, GameDev, APIs, Redes e Cybersegurança**.
 
 ---
 
-### 🗄 Bancos de Dados
+### 📁 Bancos de Dados
 ![Skills](https://skillicons.dev/icons?i=sqlite,postgres)
 
 ---
