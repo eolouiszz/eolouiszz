@@ -1,6 +1,5 @@
-<!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1f1f2e&height=180&section=header&text=Louis%20Dev%20Hub&fontSize=36&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1f1f2e&height=180&section=header&text=LouisDeb&fontSize=46&fontColor=ffffff" />
 </p>
 
 # 👋 Seja Bem-vindo!
@@ -9,10 +8,6 @@ Sou **Louis**, desenvolvedor e entusiasta de tecnologia, programação e criaç�
 Atualmente focado em **FullStack, GameDev, APIs, Redes e Cybersegurança**.
 
 🚀 Sempre buscando evoluir, aprender novas tecnologias e transformar ideias em projetos reais.
-
----
-
-## 🧠 Terminal
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&background=00000000&center=true&vCenter=true&width=420&height=80&lines=~+whoami;Louis;~+role;FullStack+Developer;~+focus;Systems+%26+Security;~+status;building..." />
@@ -77,18 +72,5 @@ Atualmente focado em **FullStack, GameDev, APIs, Redes e Cybersegurança**.
 Concluir a escola e focar totalmente no que amo: **desenvolvimento de sistemas e o Bonone Project 🐢**
 
 ---
-
-## 📟 Closing
-
-```bash
-~ whoami
-Louis
-
-~ mission
-Build systems, learn, improve
-
-~ status
-always evolving
-´´´
 
 <SeeYouLater Louis />
