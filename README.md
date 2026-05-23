@@ -21,27 +21,26 @@ Atualmente focado em **FullStack, GameDev, APIs, Redes e Cybersegurança**.
 ## 🛠 Tecnologias & Stack
 
 ### 💻 Linguagens
+
 ![Skills](https://skillicons.dev/icons?i=js,ts,python,java,bash,lua)
 
 ---
 
 ### ⚙️ Frameworks & Bibliotecas
+
 ![Skills](https://skillicons.dev/icons?i=react,bootstrap,flask,spring)
 
 ---
 
 ### 📁 Bancos de Dados
+
 ![Skills](https://skillicons.dev/icons?i=sqlite,postgres)
 
 ---
 
 ### 🧰 Ferramentas & Sistemas
+
 ![Skills](https://skillicons.dev/icons?i=git,vscode,linux,debian)
-
----
-
-### 🎮 Game Development
-![Skills](https://skillicons.dev/icons?i=robloxstudio)
 
 ---
 
@@ -54,6 +53,12 @@ Atualmente focado em **FullStack, GameDev, APIs, Redes e Cybersegurança**.
   &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=blender" height="55" />
 </p>
+
+---
+
+### 🎮 Game Development
+
+![Skills](https://skillicons.dev/icons?i=robloxstudio)
 
 ---
 
