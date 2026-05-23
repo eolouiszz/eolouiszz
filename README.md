@@ -10,72 +10,51 @@ Atualmente focado em **FullStack, GameDev, APIs, Redes e Cybersegurança**.
 ## 📊 Estatísticas GitHub
 
 <div align="center">
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=eolouiszz&theme=dracula&hide_border=true" />
-<img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=eolouiszz&layout=compact&theme=dracula&hide_border=true" />
-
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=eolouiszz&theme=dracula&hide_border=true" />
+  <img height="165" src="https://vercel.app" />
 </div>
 
 ---
 
 ## 🛠 Tecnologias & Stack
 
-### 💻 Linguagens
+### 💻 Desenvolvimento & Infraestrutura
+![Skills](https://skillicons.dev)
 
-![Skills](https://skillicons.dev/icons?i=js,ts,python,java,bash,lua)
-
----
-
-### ⚙️ Frameworks & Bibliotecas
-
-![Skills](https://skillicons.dev/icons?i=react,bootstrap,flask,spring)
-
----
-
-### 📁 Bancos de Dados
-
-![Skills](https://skillicons.dev/icons?i=sqlite,postgres)
-
----
-
-### 🧰 Ferramentas & Sistemas
-
-![Skills](https://skillicons.dev/icons?i=git,vscode,linux,debian)
-
----
-
-### 🎨 Design & Criação
-
+### 🎨 Design & Game Dev
 <p align="left">
-  <img src="https://www.gimp.org/images/frontpage/wilber-big.png" height="55" />
+  <img src="https://skillicons.dev" height="48" />
   &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Calligrakrita-base.svg" height="55" />
+  <img src="https://www.gimp.org/images/frontpage/wilber-big.png" height="48" title="GIMP" />
   &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=blender" height="55" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Calligrakrita-base.svg" height="48" title="Krita" />
 </p>
 
 ---
 
-### 🎮 Game Development
+## 🚀 Projetos em Destaque
 
-![Skills](https://skillicons.dev/icons?i=robloxstudio)
-
----
-
-## 🚀 Sobre mim
-
-- Apaixonado por tecnologia e segurança digital  
-- Foco em desenvolvimento full-stack  
-- Estudando redes, APIs e cybersegurança  
-- Criando projetos e evoluindo constantemente  
+*   **🐢 Bonone Project** - [Breve descrição do projeto aqui. Ex: Meu projeto principal de desenvolvimento...]
+*   **🌐 Outro Projeto** - [Breve descrição de outra aplicação ou API que você se orgulha.]
 
 ---
 
-## 📌 Objetivo atual
+## 📌 Objetivo Atual
 
-Concluir a escola e focar totalmente no que amo: **desenvolvimento de sistemas e o Bonone Project 🐢**
+Concluir os estudos básicos e focar totalmente no que amo: **desenvolvimento de sistemas e segurança digital.**
+
+---
+
+## 🤝 Conecte-se Comigo
+
+<div align="left">
+  <a href="https://linkedin.com" target="_blank"><img src="https://shields.io" target="_blank"></a>
+  <a href="mailto:seu-email@provedor.com"><img src="https://shields.io" target="_blank"></a>
+  <a href="https://discord.gg" target="_blank"><img src="https://shields.io" target="_blank"></a>
+</div>
 
 ---
 
 ```html
 <SeeYouLater Louis />
+```
