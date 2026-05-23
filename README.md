@@ -20,19 +20,21 @@ Atualmente focado em **Front-end, Back-end, APIs, Redes e Cybersegurança**.
 
 ## 🛠 Tecnologias & Ferramentas
 
-### 💻 Linguagens
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="40"/>
-</p>
-
-### ⚙️ Frameworks & Bibliotecas
 <p>
 
-[![Skills](https://skillicons.dev/icons?i=js,python,java,bash,lua,react,bootstrap,spring,flask,sqlite,git,vscode,linux,debian,blender)](https://skillicons.dev)
+## 🛠 Stack
+
+### Linguagens
+![skills](https://skillicons.dev/icons?i=js,ts,python,java,bash,lua)
+
+### Frameworks
+![skills](https://skillicons.dev/icons?i=react,bootstrap,flask,spring)
+
+### Databases
+![skills](https://skillicons.dev/icons?i=sqlite,postgres)
+
+### Tools
+![skills](https://skillicons.dev/icons?i=git,vscode,linux,debian,blender,gimp,krita,robloxstudio)
 </p>
 
 
