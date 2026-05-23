@@ -36,12 +36,17 @@ Atualmente focado em **Front-end, Back-end, APIs, Redes e Cybersegurança**.
 ---
 
 ### 🧰 Ferramentas & Sistemas
-![Skills](https://skillicons.dev/icons?i=git,vscode,linux,debian)
+![Skills](https://skillicons.dev/icons?i=git,vscode,linux,debian,blender)
 
 ---
 
 ### 🎨 Design & Criação
-![Skills](https://skillicons.dev/icons?i=gimp,krita,blender)
+
+<p align="left">
+  <img src="https://images.seeklogo.com/logo-png/22/1/gimp-logo-png_seeklogo-225829.png" height="50" />
+  &nbsp;&nbsp;
+  <img src="https://images.seeklogo.com/logo-png/51/1/krita-logo-png_seeklogo-510258.png" height="50" />
+</p>
 
 ---
 
