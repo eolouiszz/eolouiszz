@@ -40,7 +40,7 @@ Atualmente focado em **FullStack, GameDev, APIs, Redes e Cybersegurança**.
 
 ---
 
-### 🎮 Engine
+### 🎮 Game Development
 ![Skills](https://skillicons.dev/icons?i=robloxstudio)
 
 ---
@@ -51,9 +51,9 @@ Atualmente focado em **FullStack, GameDev, APIs, Redes e Cybersegurança**.
   <img src="https://www.gimp.org/images/frontpage/wilber-big.png" height="55" />
   &nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Calligrakrita-base.svg" height="55" />
-  ![Skills](https://skillicons.dev/icons?i=blender)
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=blender" height="55" />
 </p>
-
 
 ---
 
@@ -68,7 +68,7 @@ Atualmente focado em **FullStack, GameDev, APIs, Redes e Cybersegurança**.
 
 ## 📌 Objetivo atual
 
-Quero terminar a escola e Focar no que amo ---- (**Bonone Project** 🐢).
+Concluir a escola e focar totalmente no que amo: **desenvolvimento de sistemas e o Bonone Project 🐢**
 
 ---
 
