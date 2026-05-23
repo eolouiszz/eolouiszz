@@ -1,7 +1,7 @@
 # 👋 Seja Bem-vindo!
 
 Sou **Louis**, desenvolvedor e entusiasta de tecnologia, programação e criação de projetos desde cedo.  
-Atualmente focado em **Front-end, Back-end, APIs, Redes e Cybersegurança**.
+Atualmente focado em **FullStack,GameDev, APIs, Redes e Cybersegurança**.
 
 🚀 Sempre buscando evoluir, aprender novas tecnologias e transformar ideias em projetos reais.
 
