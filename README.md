@@ -40,8 +40,8 @@ Atualmente focado em **FullStack, GameDev, APIs, Redes e Cybersegurança**.
 
 ---
 
-### 🎮 Game Dev & 3D
-![Skills](https://skillicons.dev/icons?i=robloxstudio,blender)
+### 🎮 Engine
+![Skills](https://skillicons.dev/icons?i=robloxstudio)
 
 ---
 
@@ -51,6 +51,7 @@ Atualmente focado em **FullStack, GameDev, APIs, Redes e Cybersegurança**.
   <img src="https://www.gimp.org/images/frontpage/wilber-big.png" height="55" />
   &nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Calligrakrita-base.svg" height="55" />
+  ![Skills](https://skillicons.dev/icons?i=blender)
 </p>
 
 
