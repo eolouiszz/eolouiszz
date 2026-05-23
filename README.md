@@ -67,7 +67,7 @@ Atualmente focado em **FullStack, GameDev, APIs, Redes e Cybersegurança**.
 
 ## 📌 Objetivo atual
 
-Transformar ideias em projetos reais e evoluir meu ecossistema de criação (**Bonone Project** 🐢).
+Quero terminar a escola e Focar no que amo ---- (**Bonone Project** 🐢).
 
 ---
 
