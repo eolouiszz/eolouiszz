@@ -1,7 +1,7 @@
 # 👋 Seja Bem-vindo!
 
 Sou **Louis**, desenvolvedor e entusiasta de tecnologia, programação e criação de projetos desde cedo.  
-Atualmente focado em **FullStack,GameDev, APIs, Redes e Cybersegurança**.
+Atualmente focado em **FullStack, GameDev, APIs, Redes e Cybersegurança**.
 
 🚀 Sempre buscando evoluir, aprender novas tecnologias e transformar ideias em projetos reais.
 
@@ -48,10 +48,11 @@ Atualmente focado em **FullStack,GameDev, APIs, Redes e Cybersegurança**.
 ### 🎨 Design & Criação
 
 <p align="left">
-  <img src="https://banner2.cleanpng.com/20180805/bp/afwdetnqj.jpg" height="55" />
+  <img src="https://www.gimp.org/images/frontpage/wilber-big.png" height="55" />
   &nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Calligrakrita-base.svg" height="55" />
 </p>
+
 
 ---
 
