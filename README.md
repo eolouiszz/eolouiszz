@@ -10,51 +10,72 @@ Atualmente focado em **FullStack, GameDev, APIs, Redes e Cybersegurança**.
 ## 📊 Estatísticas GitHub
 
 <div align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=eolouiszz&theme=dracula&hide_border=true" />
-  <img height="165" src="https://vercel.app" />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=eolouiszz&theme=dracula&hide_border=true" />
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=eolouiszz&layout=compact&theme=dracula&hide_border=true" />
+
 </div>
 
 ---
 
 ## 🛠 Tecnologias & Stack
 
-### 💻 Desenvolvimento & Infraestrutura
-![Skills](https://skillicons.dev)
+### 💻 Linguagens
 
-### 🎨 Design & Game Dev
+![Skills](https://skillicons.dev/icons?i=js,ts,python,java,bash,lua)
+
+---
+
+### ⚙️ Frameworks & Bibliotecas
+
+![Skills](https://skillicons.dev/icons?i=react,bootstrap,flask,spring)
+
+---
+
+### 📁 Bancos de Dados
+
+![Skills](https://skillicons.dev/icons?i=sqlite,postgres)
+
+---
+
+### 🧰 Ferramentas & Sistemas
+
+![Skills](https://skillicons.dev/icons?i=git,vscode,linux,debian)
+
+---
+
+### 🎨 Design & Criação
+
 <p align="left">
-  <img src="https://skillicons.dev" height="48" />
+  <img src="https://www.gimp.org/images/frontpage/wilber-big.png" height="55" />
   &nbsp;&nbsp;
-  <img src="https://www.gimp.org/images/frontpage/wilber-big.png" height="48" title="GIMP" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Calligrakrita-base.svg" height="55" />
   &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Calligrakrita-base.svg" height="48" title="Krita" />
+  <img src="https://skillicons.dev/icons?i=blender" height="55" />
 </p>
 
 ---
 
-## 🚀 Projetos em Destaque
+### 🎮 Game Development
 
-*   **🐢 Bonone Project** - [Breve descrição do projeto aqui. Ex: Meu projeto principal de desenvolvimento...]
-*   **🌐 Outro Projeto** - [Breve descrição de outra aplicação ou API que você se orgulha.]
-
----
-
-## 📌 Objetivo Atual
-
-Concluir os estudos básicos e focar totalmente no que amo: **desenvolvimento de sistemas e segurança digital.**
+![Skills](https://skillicons.dev/icons?i=robloxstudio)
 
 ---
 
-## 🤝 Conecte-se Comigo
+## 🚀 Sobre mim
 
-<div align="left">
-  <a href="https://linkedin.com" target="_blank"><img src="https://shields.io" target="_blank"></a>
-  <a href="mailto:seu-email@provedor.com"><img src="https://shields.io" target="_blank"></a>
-  <a href="https://discord.gg" target="_blank"><img src="https://shields.io" target="_blank"></a>
-</div>
+- Apaixonado por tecnologia e segurança digital  
+- Foco em desenvolvimento full-stack  
+- Estudando redes, APIs e cybersegurança  
+- Criando projetos e evoluindo constantemente  
+
+---
+
+## 📌 Objetivo atual
+
+Concluir a escola e focar totalmente no que amo: **desenvolvimento de sistemas e o Bonone Project 🐢**
 
 ---
 
 ```html
 <SeeYouLater Louis />
-```
