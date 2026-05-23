@@ -31,25 +31,8 @@ Atualmente focado em **Front-end, Back-end, APIs, Redes e Cybersegurança**.
 
 ### ⚙️ Frameworks & Bibliotecas
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40"/>
-</p>
 
-### 🗄 Banco de Dados
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/>
-</p>
-
-### 🧰 Ferramentas
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="40"/>
-<img src="https://cdn-icons-png.flaticon.com/128/5968/5968520.png" width="40"/>
+[![Skills](https://skillicons.dev/icons?i=js,python,java,bash,lua,react,bootstrap,spring,flask,sqlite,git,vscode,linux,debian,blender)](https://skillicons.dev)
 </p>
 
 
