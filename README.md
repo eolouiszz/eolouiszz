@@ -5,10 +5,6 @@ Atualmente focado em **FullStack, GameDev, APIs, Redes e Cybersegurança**.
 
 🚀 Sempre buscando evoluir, aprender novas tecnologias e transformar ideias em projetos reais.
 
----
-
-## 🧠 Terminal
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF9F&center=true&vCenter=true&width=500&lines=whoami:+Louis;FullStack+Developer;GameDev+Enthusiast;Cybersecurity+Learner;Always+Building+Projects" />
 </p>
