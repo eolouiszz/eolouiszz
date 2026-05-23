@@ -36,22 +36,22 @@ Atualmente focado em **Front-end, Back-end, APIs, Redes e Cybersegurança**.
 ---
 
 ### 🧰 Ferramentas & Sistemas
-![Skills](https://skillicons.dev/icons?i=git,vscode,linux,debian,blender)
+![Skills](https://skillicons.dev/icons?i=git,vscode,linux,debian)
+
+---
+
+### 🎮 Game Dev & 3D
+![Skills](https://skillicons.dev/icons?i=robloxstudio,blender)
 
 ---
 
 ### 🎨 Design & Criação
 
 <p align="left">
-  <img src="https://images.seeklogo.com/logo-png/22/1/gimp-logo-png_seeklogo-225829.png" height="50" />
+  <img src="https://banner2.cleanpng.com/20180805/bp/afwdetnqj.jpg" height="55" />
   &nbsp;&nbsp;
-  <img src="https://images.seeklogo.com/logo-png/51/1/krita-logo-png_seeklogo-510258.png" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Calligrakrita-base.svg" height="55" />
 </p>
-
----
-
-### 🎮 Game Dev
-![Skills](https://skillicons.dev/icons?i=robloxstudio)
 
 ---
 
