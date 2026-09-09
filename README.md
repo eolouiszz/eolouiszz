@@ -19,11 +19,10 @@ Atualmente focado em **FullStack, GameDev, APIs, Redes e Cybersegurança**.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=eolouiszz&theme=dracula&hide_border=true" />
+<img height="170" src="https://streak-stats.demolab.com/?user=eolouiszz&theme=dracula&hide_border=true" />
 <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=eolouiszz&layout=compact&theme=dracula&hide_border=true" />
 
 </div>
-
 ---
 
 ## 🛠 Stack
