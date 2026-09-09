@@ -23,6 +23,7 @@ Atualmente focado em **FullStack, GameDev, APIs, Redes e Cybersegurança**.
 <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=eolouiszz&layout=compact&theme=dracula&hide_border=true" />
 
 </div>
+
 ---
 
 ## 🛠 Stack
