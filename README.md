@@ -4,8 +4,9 @@
 
 <h3 align="center">"build. break. understand. rebuild."</h3>
 
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&background=00000000&center=true&vCenter=true&width=500&height=70&lines=%7E%2Fwhoami;Louis;Well+%26+Well+Well;%7E%2Fwell+well+well." />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&background=00000000&center=true&vCenter=true&width=500&height=70&pause=1800&speed=100&deleteSpeed=50&lines=~%2Fwhoami;Louis;Well;Well+Well;Well%2C+Well%2C+Well" />
 </p>
 
 ## 🛠️ Tools
