@@ -9,19 +9,11 @@
 
 ## 🛠️ Tools
 
-**Languages**
-
 ![Skills](https://skillicons.dev/icons?i=js,ts,python,java,bash,lua)
-
-**Backend & Frameworks**
 
 ![Skills](https://skillicons.dev/icons?i=react,bootstrap,flask,spring)
 
-**Databases**
-
 ![Skills](https://skillicons.dev/icons?i=sqlite,postgres)
-
-**Systems & Tools**
 
 ![Skills](https://skillicons.dev/icons?i=linux,debian,git,vscode,blender,robloxstudio)
 <p align="center">
