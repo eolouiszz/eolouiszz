@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,100:24243a&height=170&section=header&text=LouisDeb&fontSize=48&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,100:24243a&height=170&section=header&text=Louis&fontSize=48&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <h3 align="center">"build. break. understand. rebuild."</h3>
