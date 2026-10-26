@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:050505,35:171323,70:35245c,100:080808&height=220&section=header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:050505,35:171323,70:35245c,100:080808&height=220&section=header&text=LOUIS&fontSize=58&fontColor=ffffff&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=17&duration=1800&pause=650&color=A78BFA&center=true&vCenter=true&width=520&height=55&lines=build.;break.;understand.;rebuild." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=1800&pause=600&color=A78BFA&center=true&vCenter=true&width=520&height=50&lines=build.;break.;understand.;rebuild." />
 </p>
 
 <p align="center">
