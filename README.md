@@ -27,5 +27,5 @@
 </p>
 
 <p align="center">
-  <sub>Designed & built by Louis · Last major update: 2026-10-26</sub>
+  <sub>By Louis  -  2026-10-26 - 15:25</sub>
 </p>
