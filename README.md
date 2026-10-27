@@ -1,6 +1,6 @@
  <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,bash,lua,react,bootstrap,flask,spring,sqlite,postgres,linux,debian,git,vscode,blender,robloxstudio&theme=dark&perline=9" alt="Tools and technologies" />
-</div>
+</div> 
 
 <br/>
 
