@@ -1,6 +1,5 @@
 <div align="center">  
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,bash,lua,react,bootstrap,flask,sqlite,linux,debian,git,vscode,blender,robloxstudio&theme=dark&perline=9" alt="Tools and technologies" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/luau/luau-original.svg" width=50 />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,bash,lua,react,bootstrap,flask,sqlite,linux,debian,git,vscode,blender,luau,robloxstudio&theme=dark&perline=9" alt="Tools and technologies" />
 </div>    
 
 <br/>
