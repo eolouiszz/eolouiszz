@@ -1,5 +1,5 @@
 <div align="center">  
-  <img src="https://skillicons.dev/icons?i=js,python,java,bash,lua,react,bootstrap,flask,sqlite,linux,debian,git,vscode,blender,robloxstudio&theme=dark&perline=9" alt="Tools and technologies" />
+  <img src="https://skillicons.dev/icons?i=js,python,java,bash,lua,react,bootstrap,flask,sqlite,linux,debian,git,vscode&theme=dark&perline=9" alt="Tools and technologies" />
 </div>    
 
 <br/>
