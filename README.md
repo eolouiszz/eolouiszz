@@ -9,5 +9,5 @@
 </p>
 
 <p align="center">
-  <sub>By Louis · 2026-10-30 · 22:18 BRT</sub>
+  <sub>By Louis · 2026-11-03 · 08:47 BRT - Ate o Proximo ano 🥀​</sub>
 </p>
